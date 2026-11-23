@@ -1,0 +1,5 @@
+[
+ {"name":"A_hype","voice":"am_puck","speed":1.3,"lines":["Your desk is a battlefield!","Left hand types. Right hand hunts!","One pad. Zero compromise!","Pick your color! Pick your size!","Plot twist!","Flip it over, and BOOM! Whole new desk!","DuoPad, by DeskLab! Under fifty bucks! Grab yours!"]},
+ {"name":"B_playful","voice":"af_bella","speed":1.25,"lines":["Okay, look at this!","Leather to type on. Speed cloth to aim!","Two zones. One pad!","Black, brown, and big!","But wait!","Flip it! Natural cork! Seriously!","DuoPad! Under fifty bucks! Go, go, go!"]},
+ {"name":"C_trailer","voice":"am_fenrir","speed":0.95,"lines":["In a world of messy desks...","one pad... changes everything.","Two zones.","Two colors. Two sizes.","But wait...","It has... a secret side.","DuoPad. Coming to a desk near you."]}
+]
